@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>478</width>
+    <height>357</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QComboBox" name="comboAd">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>50</y>
+      <width>161</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Musa</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Mehmet Samed</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Çağlar</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Vildan</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Ayşe</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QComboBox" name="comboSoyad">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>50</y>
+      <width>151</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string/>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>BOSTANCI</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>TOSUN</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>ALUÇ</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>TORTOPOĞLU</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>AYTEKİN</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>140</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="btnKontrol">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>200</y>
+      <width>75</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>KONTROL</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>478</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,16 @@
+{% extends 'main/base.html' %}
+
+{% block title %}Login Page{% endblock title %}
+
+{% load crispy_forms_tags %}
+
+
+{% block content %}
+<form method="post" class="form-group">
+    {% csrf_token %}
+    {{form|crispy}}
+    <p>Bir hesabınız yok mu? <a href="/register/">Buradan</a> oluşturun.</p>
+    <button type="submit" class="btn btn-success">Login</button>
+</form>
+
+{% endblock content %}

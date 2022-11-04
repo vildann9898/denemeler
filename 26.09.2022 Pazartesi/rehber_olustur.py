@@ -1,0 +1,1 @@
+rehber = open("rehber.txt","w")

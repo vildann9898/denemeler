@@ -1,0 +1,46 @@
+"r" -> Dosyayı okuma yetkisiyle açar.
+"w" -> Dosyayı yazma yetkisiyle açar.
+"a" -> Yazma yetkisiyle açar ancak dosya zaten
+    mevcut ise içeriğinde herhangi bir 
+    değişiklik yapmaz. Var olan verilerin
+    sonuna ekleme yapar.
+"x" -> Yazma yetkisiyle açar ancak dosya
+    ismi mevcut ise var olan dosyayı silmek
+    yerine size bir hata mesajı döner.
+
+"r+" -> Dosyayı hem okuma, hem de yazma
+    yetkisiyile açar
+"w+" -> Dosyayı hem yazma, hem de okuma
+    yetkisiyile açar
+"a+" -> Hem yazma hem de okuma yetkisiyile
+    açar. Dosya mevcut ise içeriğinde
+    herhangi bir değişiklik yapmaz,
+    içeriğin en sonuna ilave yapar.
+"x+" -> hem yazma hem okuma yetkisiyile
+    açar. Var olan dosyayı silmek yerine
+    hata mesajı döndürür.
+"rb" -> Metin dosyaları ile binary
+    dosyaları ayırt edebilen sistemlerde
+    binary dosyaları okuma yetkisi için
+    kullanılır
+"wb" -> Binary dosyaları yazma yetkisi
+    için kullanılır
+"ab" -> Binary dosyaları yazma yetkisi için
+    kullanılır. Ancak içeriğinde herhangi
+    bir değişiklik yapmaz. İçeriğin en sonuna
+    binary veri ekler.
+"xb" -> Binary dosyaları yazma yetkisi için
+    kullanılır. Var olan dosyayı silmek yerine
+    hata mesajı döndürür.
+"rb+" -> Binary dosyaları hem okuma
+hem de yazma yetkisi için kullanılır.
+"wb+" -> Binary dosyaları hem yazma hem de
+    okuma yetkisi için kullanılır.
+"ab+" -> Binary dosyaları hem yazma hemde
+    okuma yetkisi için kullanılır. Binary
+    dosya mevcut ise içeriğinde herhangi
+    bir değişiklik yapmaz. İçeriğin en sonuna
+    binary veri ekler.
+"xb+" -> Binary dosyaları hem yazma hem okuma
+    yetkisi için kullanılır. Var olan dosyayı 
+    silmek yerine hata mesajı döndürür.

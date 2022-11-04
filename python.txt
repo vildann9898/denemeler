@@ -1,0 +1,5 @@
+Python, nesne yönelimli, yorumlamalý, birimsel (modüler) ve etkileþimli yüksek seviyeli bir programlama dilidir.[4]
+
+Girintilere dayalý basit söz dizimi, dilin öðrenilmesini ve akýlda kalmasýný kolaylaþtýrýr. Bu da ona söz diziminin ayrýntýlarý ile vakit yitirmeden programlama yapýlmaya baþlanabilen bir dil olma özelliði kazandýrýr.
+
+Modüler yapýsý, sýnýf dizgesini (sistem) ve her türlü veri alaný giriþini destekler. Hemen hemen her türlü platformda çalýþabilir (Unix, Linux, Mac, Windows, Amiga, Symbian). Python ile sistem programlama, kullanýcý arabirimi programlama, að programlama, web programlama, uygulama ve veri tabaný yazýlýmý programlama gibi birçok alanda yazýlým geliþtirebilirsiniz. Büyük yazýlýmlarýn hýzlý bir þekilde prototiplerinin üretilmesi ve denenmesi gerektiði durumlarda da C ya da C++ gibi dillere tercih edilir.
